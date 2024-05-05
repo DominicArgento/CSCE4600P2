@@ -8,5 +8,5 @@ An example of how to run the program (assuming you have already downloaded it to
 cd CSCE4600P2,
 go build,
 .\CSCE4600P2.exe,
-touch hello.html,
+touch hello.html
 
